@@ -34,7 +34,7 @@ BOUNDS = np.float32([[-0.3, 0.3], [-0.8, -0.2], [0, 0.15]])  # X Y Z
 global_test_engine = "text-davinci-003"
 custom_base_url = None
 use_openai = True 
-openai_api_key = "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"
+openai_api_key = ""
 ai_spec_config = {
     "custom_base_url": custom_base_url,
     "use_openai": use_openai,
